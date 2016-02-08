@@ -1,5 +1,7 @@
 # studyLink
-# study link 모음
+## study link 모음
+
+ES6 
 
 [A detailed overview of ECMAScript 6 features] 
 (https://babeljs.io/docs/learn-es2015/)
